@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEC611313antlr", "IEC611313antlr.csproj", "{94CE7FFE-FE9E-4261-8DAC-29170FFD014C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CE7FFE-FE9E-4261-8DAC-29170FFD014C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CE7FFE-FE9E-4261-8DAC-29170FFD014C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CE7FFE-FE9E-4261-8DAC-29170FFD014C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CE7FFE-FE9E-4261-8DAC-29170FFD014C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACFCCCCC-E7B6-4B24-923D-D354459C165A}
+	EndGlobalSection
+EndGlobal
