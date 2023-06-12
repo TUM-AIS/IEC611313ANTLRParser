@@ -203,6 +203,11 @@ CONSTANT
 	 C O N S T A N T
 ;
 
+CONTINUE
+:
+	C O N T I N U E
+;
+
 DATE
 :
 	 D A T E

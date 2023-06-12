@@ -707,6 +707,7 @@ statement :
 		| while_statement SEMICOLON?
 		| repeat_statement SEMICOLON?
 		| exit_statement SEMICOLON
+		| continue_statement SEMICOLON
 		| empty_statement
 ;
 
@@ -845,6 +846,10 @@ exit_statement
 	EXIT
 ;
 
+continue_statement
+:
+	CONTINUE
+;
 
  // Table 54 - 61 - Sequential Function Chart (SFC)
  sfc:  sfc_network+;
