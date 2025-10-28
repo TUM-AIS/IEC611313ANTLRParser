@@ -64,7 +64,7 @@ constant
 cast: CAST_LITERAL;
 integer : MINUS? INTEGER_LITERAL;
 bits : BITS_LITERAL;
-real : REAL_LITERAL;
+real : MINUS? REAL_LITERAL;
 
 string
 :
